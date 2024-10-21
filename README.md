@@ -1,8 +1,8 @@
-# TurboWarp Docs
+# Warpmod Docs
 
 https://docs.turbowarp.org/
 
-This repository contains documentation for TurboWarp.
+This repository contains documentation for Warpmod.
 
 ## Writing content
 
